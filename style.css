@@ -1,0 +1,49 @@
+.card{
+    height: 350px;
+    width: 250px;
+    margin: auto;
+    border: 1px solid;
+    border-radius:10px;
+}
+.sec1{
+    height: 40%;
+    background-image:url(https://images.pexels.com/photos/2664399/pexels-photo-2664399.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    position: relative;
+}
+.sec2{
+    /* border: 2px solid; */
+    margin-top:20px;
+    padding-left: 20px;
+    
+}
+.cardtag{
+    background-color: purple;
+    color: white;
+    padding: 2px 15px;
+    border-radius: 20px;
+}
+.cardtitle{
+
+}
+.cardpara{
+    font-size:10px
+}
+.cardprofile{
+    height: 50px;
+    width: 50px;
+    border-radius:100%;
+}
+.cardname{
+
+
+}
+.onlinestatus{
+    color: gray;
+    font-size: 12px;
+
+
+}
